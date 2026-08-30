@@ -1,0 +1,61 @@
+{
+  "player": {
+    "playerName": "Player",
+    "selectedCharacter": "Boy",
+    "health": 100,
+    "currentLevel": 1
+  },
+  "levels": [
+    {
+      "levelId": 1,
+      "sceneName": "Level0_Fire_Interior",
+      "unlocked": true,
+      "completed": false
+    },
+    {
+      "levelId": 2,
+      "sceneName": "Level2",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "levelId": 3,
+      "sceneName": "Level3",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "levelId": 4,
+      "sceneName": "Level4",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "levelId": 5,
+      "sceneName": "Level5",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "levelId": 6,
+      "sceneName": "Level6",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "levelId": 7,
+      "sceneName": "Level7",
+      "unlocked": false,
+      "completed": false
+    }
+  ],
+  "story": {
+    "introCompleted": false,
+    "storyProgress": 0
+  },
+  "inventory": [],
+  "settings": {
+    "musicVolume": 1.0,
+    "soundVolume": 1.0
+  }
+}
